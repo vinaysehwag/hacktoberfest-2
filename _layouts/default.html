@@ -37,5 +37,16 @@ layout: compress
 
     {% include icons.html %}
 
+
+
+    
+    <div class="wrapper-{% if site.width == "normal" %}normal{% elsif site.width == "large" %}large{% endif %}">
+        <div class="page {{ page.title | downcase }}">
+            {{ content }}
+        </div>
+    </div>
+
+    {% include icons.html %}
+
 </body>
 </html>
