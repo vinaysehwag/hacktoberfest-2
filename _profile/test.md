@@ -7,7 +7,7 @@ layout: page
 title: profile
 
 # Required
-name: <Your name here>
+name: Test Name
 
 # Optional, atleast 2 recommended
 email: <Your email address>
