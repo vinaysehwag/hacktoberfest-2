@@ -8,6 +8,8 @@ title: profile
 
 # Required
 name: Test Name
+# Use Tag like Tech Enthusiast,Pro Coder,Web Devloper,Geeky Coder
+tag: Tech Enthusiast
 
 # Optional, atleast 2 recommended
 email: <Your email address>
@@ -30,5 +32,5 @@ stackoverflow: <Your StackOverflow profile>
 # Optional
 # Upload the image to imgur and
 # paste the direct link to image
-picture: <Link to your image>
+picture: https://learn.microsoft.com/en-us/answers/storage/attachments/209536-360-f-364211147-1qglvxv1tcq0ohz3fawufrtonzz8nq3e.jpg
 ---
