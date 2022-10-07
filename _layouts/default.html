@@ -20,6 +20,7 @@ layout: compress
 
     <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Product+Sans:900">
+    <link rel="stylesheet" href="../style.css">
 
     <style>
     {% capture scss_sheet %}{% include style.scss %}{% endcapture %}
@@ -42,7 +43,7 @@ layout: compress
                     <img src="https://learn.microsoft.com/en-us/answers/storage/attachments/209536-360-f-364211147-1qglvxv1tcq0ohz3fawufrtonzz8nq3e.jpg" />
                     <!-- <img src="https://i.imgur.com/x35HloT.jpg" /> -->
                     <h5 class="h5">Tech Enthusiast</h5>
-                    <h3 class="h3">Jatin Singh</h3>
+                    <h3 class="h3">{{ page.name }}</h3>
                 </div>
             </div>
 
