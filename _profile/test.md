@@ -12,22 +12,22 @@ name: Test Name
 tag: Tech Enthusiast
 
 # Optional, atleast 2 recommended
-email: tech enthusiast
-quora: tech enthusiast
-vimeo: tech enthusiast
-reddit: tech enthusiast
-google: tech enthusiast
-gitlab: tech enthusiast
-medium: tech enthusiast
-github: tech enthusiast 
-lastfm: tech enthusiast
-spotify: tech enthusiast
-youtube: tech enthusiast
-twitter: tech enthusiast
-linkedin: tech enthusiast
-instagram: tech enthusiast
-pinterest: tech enthusiast
-stackoverflow: tech enthusiast
+email: <Your email address>
+quora: <Your Quora profile>
+vimeo: <Your Vimeo profile>
+reddit: <Your reddit profile>
+google: <Your Google+ profile>
+gitlab: <Your GitLab profile>
+medium: <Your Medium profile>
+github: <Your GitHub profile> 
+lastfm: <Your lastfm profile>
+spotify: <Your Spotify profile>
+youtube: <Your YouTube profile>
+twitter: <Your Twitter profile>
+linkedin: <Your LinkedIn profile>
+instagram: <Your Instagram profile>
+pinterest: <Your Pinterest profile>
+stackoverflow: <Your StackOverflow profile>
 
 # Optional
 # Upload the image to imgur and
