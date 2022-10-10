@@ -23,7 +23,7 @@ tag: Tech Enthusiast
 # lastfm: <Your lastfm profile>
 # spotify: <Your Spotify profile>
 # youtube: <Your YouTube profile>
-# twitter: <Your Twitter profile>
+twitter: https://www.twitter.com
 # linkedin: <Your LinkedIn profile>
 # instagram: <Your Instagram profile>
 # pinterest: <Your Pinterest profile>
