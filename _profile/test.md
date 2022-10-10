@@ -19,7 +19,6 @@ reddit: <Your reddit profile>
 google: <Your Google+ profile>
 gitlab: <Your GitLab profile>
 medium: <Your Medium profile>
-facebook: https://www.facebook.com
 github: <Your GitHub profile> 
 lastfm: <Your lastfm profile>
 spotify: <Your Spotify profile>
