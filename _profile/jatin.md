@@ -7,7 +7,7 @@ layout: page
 title: profile
 
 # Required
-name: Jatin
+name: Jatin S
 
 # Optional, atleast 2 recommended
 email: <Your email address>
