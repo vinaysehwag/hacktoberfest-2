@@ -45,30 +45,60 @@ layout: compress
         <div class="menuToggle"></div>
         <div class="menu">
             <ul>
-                {% if page.facebook %}
-                <li style="--i:0.0s"><a data-title="{{ page.facebook }}" href="{{ page.facebook }}" target="_blank">
-                    <i title="Facebook" class="fa-brands fa-facebook" style="color: #6d4d9c;"></i>
-                </a></li>
-                {% endif %}
-                {% if page.twitter %}
-                <li style="--i:0.0s"><a data-title="{{ page.twitter }}" href="{{ page.twitter }}" target="_blank">
-                    <i title="Twitter" class="fa-brands fa-twitter" style="color: #6d4d9c;"></i>
-                </a></li>
+                {% if page.email %}
+                <li style="--i:0.0s"><a data-title="{{ page.email }}" href="{{ page.email }}" target="_blank">
+                        <i title="Email" class="fa-solid fa-envelope" style="color: #6d4d9c;"></i>
+                    </a></li>
                 {% endif %}
 
                 {% if page.google %}
                 <li style="--i:0.0s"><a data-title="{{ page.google }}" href="{{ page.google }}" target="_blank">
-                    <i title="Google" class="fa-brands fa-google" style="color: #6d4d9c;"></i>
-                </a></li>
+                        <i title="Google" class="fa-brands fa-google" style="color: #6d4d9c;"></i>
+                    </a></li>
+                {% endif %}
+
+                {% if page.facebook %}
+                <li style="--i:0.0s"><a data-title="{{ page.facebook }}" href="{{ page.facebook }}" target="_blank">
+                        <i title="Facebook" class="fa-brands fa-facebook" style="color: #6d4d9c;"></i>
+                    </a></li>
+                {% endif %}
+
+                {% if page.instagram %}
+                <li style="--i:0.0s"><a data-title="{{ page.instagram }}" href="{{ page.instagram }}" target="_blank">
+                        <i title="Instagram" class="fa-brands fa-instagram" style="color: #6d4d9c;"></i>
+                    </a></li>
                 {% endif %}
                 
-                {% if page.email %}
-                <a class="link" data-title="{{ page.email }}" href="mailto:{{ page.email }}">
-                    <svg class="icon icon-mail">
-                        <use xlink:href="#icon-mail"></use>
-                    </svg>
-                </a>
+                {% if page.linkedin %}
+                <li style="--i:0.0s"><a data-title="{{ page.linkedin }}" href="{{ page.linkedin }}" target="_blank">
+                    <i title="LinkedIn" class="fa-brands fa-twitter" style="color: #6d4d9c;"></i>
+                </a></li>
                 {% endif %}
+
+                {% if page.github %}
+                <li style="--i:0.0s"><a data-title="{{ page.github }}" href="{{ page.github }}" target="_blank">
+                    <i title="Github" class="fa-brands fa-github" style="color: #6d4d9c;"></i>
+                </a></li>
+                {% endif %}
+
+                {% if page.medium %}
+                <li style="--i:0.0s"><a data-title="{{ page.medium }}" href="{{ page.medium }}" target="_blank">
+                    <i title="Medium" class="fa-brands fa-medium" style="color: #6d4d9c;"></i>
+                </a></li>
+                {% endif %}
+
+                {% if page.youtube %}
+                <li style="--i:0.0s"><a data-title="{{ page.youtube }}" href="{{ page.youtube }}" target="_blank">
+                    <i title="YouTube" class="fa-brands fa-youtube" style="color: #6d4d9c;"></i>
+                </a></li>
+                {% endif %}
+
+                {% if page.stackoverflow %}
+                <li style="--i:0.0s"><a data-title="{{ page.stackoverflow }}" href="{{ page.stackoverflow }}" target="_blank">
+                    <i title="Stackoverflow" class="fa-brands fa-stack-overflow" style="color: #6d4d9c;"></i>
+                </a></li>
+                {% endif %}
+
             </ul>
         </div>
     </div>
