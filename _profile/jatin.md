@@ -15,19 +15,13 @@ tag: Pro Coder
 # your email address here
 email: jsgautam697@gmail.com
 # your facebook profile here
-facebook: 
+facebook: https://www.facebook.com/jatin.gautam.19/
 #your instagram profile here
-instagram: 
-#your linkedin profile here
-linkedin: 
+instagram: https://www.instagram.com/jatinsingh287/
 #your github profile her
-github:  
-#your medium profile here
-medium: 
+github:  https://github.com/jsgautam
 #your youtube profile here
-youtube: 
-#your stackoverflow profile here
-stackoverflow: 
+youtube: https://www.youtube.com/channel/UCs4O9Hv1nap2GPsQY2juaxQ
 
 
 # Optional
