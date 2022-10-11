@@ -7,7 +7,7 @@ layout: page
 title: profile
 
 # Required
-name: Jatin Singh Gautam
+name: Jatin Singh
 
 # Optional, atleast 2 recommended
 email: jsgautam697@gmail.com
