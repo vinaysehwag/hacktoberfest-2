@@ -14,8 +14,6 @@ tag: Pro Coder
 
 # your email address here
 email: jsgautam697@gmail.com
-# your google plus profile here
-google: 
 # your facebook profile here
 facebook: 
 #your instagram profile here

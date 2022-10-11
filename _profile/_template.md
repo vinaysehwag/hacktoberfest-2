@@ -15,8 +15,6 @@ tag: Pro Coder
 
 # your email address here
 email: 
-# your google plus profile here
-google: 
 # your facebook profile here
 facebook: 
 #your instagram profile here
