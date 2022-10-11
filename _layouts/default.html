@@ -31,7 +31,11 @@ layout: compress
     </div>
     <div class="outer_card">
         <div class="card">
+            {% if page.picture %}
             <img src="{{ page.picture }}" />
+            {% else %}
+            <img src="../assets/images/profile.jpg" />
+            
             <h5 class="h5">{{ page.tag }}</h5>
             <h3 class="h3">{{ page.name }}</h3>
         </div>
@@ -68,35 +72,36 @@ layout: compress
                         <i title="Instagram" class="fa-brands fa-instagram" style="color: #6d4d9c;"></i>
                     </a></li>
                 {% endif %}
-                
+
                 {% if page.linkedin %}
                 <li style="--i:0.0s"><a data-title="{{ page.linkedin }}" href="{{ page.linkedin }}" target="_blank">
-                    <i title="LinkedIn" class="fa-brands fa-twitter" style="color: #6d4d9c;"></i>
-                </a></li>
+                        <i title="LinkedIn" class="fa-brands fa-twitter" style="color: #6d4d9c;"></i>
+                    </a></li>
                 {% endif %}
 
                 {% if page.github %}
                 <li style="--i:0.0s"><a data-title="{{ page.github }}" href="{{ page.github }}" target="_blank">
-                    <i title="Github" class="fa-brands fa-github" style="color: #6d4d9c;"></i>
-                </a></li>
+                        <i title="Github" class="fa-brands fa-github" style="color: #6d4d9c;"></i>
+                    </a></li>
                 {% endif %}
 
                 {% if page.medium %}
                 <li style="--i:0.0s"><a data-title="{{ page.medium }}" href="{{ page.medium }}" target="_blank">
-                    <i title="Medium" class="fa-brands fa-medium" style="color: #6d4d9c;"></i>
-                </a></li>
+                        <i title="Medium" class="fa-brands fa-medium" style="color: #6d4d9c;"></i>
+                    </a></li>
                 {% endif %}
 
                 {% if page.youtube %}
                 <li style="--i:0.0s"><a data-title="{{ page.youtube }}" href="{{ page.youtube }}" target="_blank">
-                    <i title="YouTube" class="fa-brands fa-youtube" style="color: #6d4d9c;"></i>
-                </a></li>
+                        <i title="YouTube" class="fa-brands fa-youtube" style="color: #6d4d9c;"></i>
+                    </a></li>
                 {% endif %}
 
                 {% if page.stackoverflow %}
-                <li style="--i:0.0s"><a data-title="{{ page.stackoverflow }}" href="{{ page.stackoverflow }}" target="_blank">
-                    <i title="Stackoverflow" class="fa-brands fa-stack-overflow" style="color: #6d4d9c;"></i>
-                </a></li>
+                <li style="--i:0.0s"><a data-title="{{ page.stackoverflow }}" href="{{ page.stackoverflow }}"
+                        target="_blank">
+                        <i title="Stackoverflow" class="fa-brands fa-stack-overflow" style="color: #6d4d9c;"></i>
+                    </a></li>
                 {% endif %}
 
             </ul>
