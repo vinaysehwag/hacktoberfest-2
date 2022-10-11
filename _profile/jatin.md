@@ -27,5 +27,5 @@ youtube: https://www.youtube.com/channel/UCs4O9Hv1nap2GPsQY2juaxQ
 # Optional
 # Upload the image to imgur and
 # paste the direct link to image
-picture: https://i.imgur.com/WsmuXDi.jpg
+picture: https://cdn-icons-png.flaticon.com/512/2115/2115964.png
 ---
