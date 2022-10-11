@@ -11,15 +11,26 @@ name: Jatin Singh
 tag: Pro Coder
 
 # Optional, atleast 2 recommended
+
+# your email address here
 email: jsgautam697@gmail.com
-google: <Your Google+ profile>
-facebook: <Your Facebook profile>
-instagram: <Your Instagram profile>
-linkedin: <Your LinkedIn profile>
-github: <Your GitHub profile> 
-medium: <Your Medium profile>
-youtube: <Your YouTube profile>
-stackoverflow: <Your StackOverflow profile>
+# your google plus profile here
+google: 
+# your facebook profile here
+facebook: 
+#your instagram profile here
+instagram: 
+#your linkedin profile here
+linkedin: 
+#your github profile her
+github:  
+#your medium profile here
+medium: 
+#your youtube profile here
+youtube: 
+#your stackoverflow profile here
+stackoverflow: 
+
 
 # Optional
 # Upload the image to imgur and
