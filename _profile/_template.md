@@ -8,6 +8,8 @@ title: profile
 
 # Required
 name: <Your name here>
+# Insert tag like pro coder,tech enthusiast,web devloper
+tag: <Your tag here>
 
 # Optional, atleast 2 recommended
 email: <Your email address>

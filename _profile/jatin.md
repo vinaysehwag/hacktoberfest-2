@@ -8,6 +8,7 @@ title: profile
 
 # Required
 name: Jatin Singh
+tag: Pro Coder
 
 # Optional, atleast 2 recommended
 email: jsgautam697@gmail.com
