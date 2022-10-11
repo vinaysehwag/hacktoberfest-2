@@ -7,9 +7,9 @@ layout: page
 title: profile
 
 # Required
-name: <Your name here>
+name: Test Name
 # Insert tag like pro coder,tech enthusiast,web devloper
-tag: <Your tag here>
+tag: Pro Coder
 
 # Optional, atleast 2 recommended
 
@@ -35,5 +35,5 @@ stackoverflow:
 # Optional
 # Upload the image to imgur and
 # paste the direct link to image
-picture: <Link to your image>
+picture: 
 ---
