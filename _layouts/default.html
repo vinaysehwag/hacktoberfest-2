@@ -31,12 +31,7 @@ layout: compress
     </div>
     <div class="outer_card">
         <div class="card">
-            {% if page.picture %}
             <img src="{{ page.picture }}" />
-            {% else %}
-            <img src="../assets/images/profile.jpg" />
-            {% endif %}
-
             <h5 class="h5">{{ page.tag }}</h5>
             <h3 class="h3">{{ page.name }}</h3>
         </div>
